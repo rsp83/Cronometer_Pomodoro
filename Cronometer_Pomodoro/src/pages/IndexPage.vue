@@ -70,7 +70,7 @@
   padding-right:55px;
   padding-left:55px;
 
-  height: ;
+  height: 100%;
   box-sizing: border-box;
 }
 
