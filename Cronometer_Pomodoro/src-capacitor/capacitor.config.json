@@ -1,0 +1,8 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "Cronometer_Pomodoro",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

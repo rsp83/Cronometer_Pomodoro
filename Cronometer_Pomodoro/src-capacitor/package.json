@@ -1,0 +1,12 @@
+{
+  "name": "cronometer-pomodoro",
+  "version": "0.0.1",
+  "description": "dual cronometer for pomodoro",
+  "author": "rsp83 <110043578+rsp83@users.noreply.github.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/app": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
+}
